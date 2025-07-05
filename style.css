@@ -48,23 +48,17 @@ body {
 .header-nav {
     background-color: #18181b;
     border-radius: 6px;
-    padding: 15px 20px;
-}
-
-.header-nav ul {
-    display: flex;
-    flex-direction: column;
-    gap: 30px;
 }
 
 .header-nav ul a {
-    width: fit-content;
+    width: 100%;
     display: flex;
     align-items: center;
     gap: 18px;
     color: #a1a1aa;
     font-weight: 600;
     transition: color 0.3s ease-in-out;
+    padding: 15px 20px;
 
     &:hover {
         color: #fff;
