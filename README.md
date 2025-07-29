@@ -1,3 +1,4 @@
 ## Spotify Clone (Desktop)
 
-<img width="1889" height="1055" alt="image" src="https://github.com/user-attachments/assets/213034d1-4e47-4adc-8aef-59116daa5c72" />
+<img width="1919" height="1052" alt="image" src="https://github.com/user-attachments/assets/8a034b4a-1383-4bb6-9b17-0248cf6926e7" />
+
